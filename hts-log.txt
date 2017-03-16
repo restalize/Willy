@@ -1,0 +1,25 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 06 Mar 2017 19:24:02 at http://williambet:W1ll14mb3tPass@www.williambet.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://williambet:W1ll14mb3tPass@www.williambet.com -O1 "m:\My Web Sites\Williambet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:24:15	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/favicon.ico (from williambet:W1ll14mb3tPass@www.williambet.com/)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/css/fonts/{{env.lang}}.css (from williambet:W1ll14mb3tPass@www.williambet.com/)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/poker-page-new-tournaments.jpg?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/promotabbg.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/windows-icon-j.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/mac-icon-j.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/linux-icon-j.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/images/android-icon.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/animation/stats_tl-hover.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/tournament-bg.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/bg-button-bet.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/bet-list-bg.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/no-image-winnersn.png?v=525 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+19:28:52	Error: 	"Not Found" (404) at link williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/images/logo.png?v=1 (from williambet:W1ll14mb3tPass@www.williambet.com/skins/williambet.com/css/skin.min.css?20170302.0540120.0.1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 4 minutes 56 seconds : 166 links scanned, 151 files written (11395152 bytes overall) [7358497 bytes received at 24859 bytes/sec], 5396137 bytes transferred using HTTP compression in 29 files, ratio 23%, 8.3 requests per connection
+(14 errors, 0 warnings, 0 messages)

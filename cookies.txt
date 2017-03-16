@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.williambet.com	TRUE	/	FALSE	1999999999	__cfduid	d37eb75f97d5d9043cd6dda84b35d86341488821042
+www.williambet.com	TRUE	/	FALSE	1999999999	SERVERID	s1
+

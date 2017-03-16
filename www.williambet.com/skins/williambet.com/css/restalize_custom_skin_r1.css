@@ -1529,6 +1529,16 @@ search-casino-box-b .block-search input[type=text] {
 
 /*  /----------- Temp Changes -------------*/
 
+.classic-view-wrapper-v3 {
+    padding:0 80px;
+    background-image:url(../images/stadium_BG.jpg);
+}
+
+.classic-view-row-v3 {
+    background:#788990;
+}
+
+
 .contain-competition-dashboard-v3.closed {
     animation: dashboard-c-closed-animate-b 240ms ease;
     max-height: 30px;

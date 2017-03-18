@@ -1,0 +1,26 @@
+/* aggelos changes */
+
+/* casino top image fullwidth */
+
+.casino-top-slider-wrapper {
+	width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  float:none!important;
+}
+ /* icons orientation live>dashboard */
+.sport-icon-v3 {
+    top: -6px;
+}
+
+/* filters in casino */
+.providers-nav-casino>ul>li>a {
+    color: #fafafa;
+   
+}
+.providers-nav-casino>ul>li>a:hover { 
+    font-weight:600;
+}

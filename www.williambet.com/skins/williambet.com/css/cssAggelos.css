@@ -54,11 +54,15 @@
 
 /* filters in casino */
 .providers-nav-casino>ul>li>a {
-    color: #fafafa;
+    color: #b4e6f7;
    
 }
 .providers-nav-casino>ul>li>a:hover { 
-    font-weight:600;
+    color:fff;
+}
+.providers-nav-casino>ul>li>a:active { 
+    color:fff;
+	font-weight:600;
 }
 
 /* categories casino fonts size */

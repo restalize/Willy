@@ -26,6 +26,9 @@
     box-sizing: border-box;
     transform: translate3d(0,0,0);
 }
+  .fixed-nav-wrapper-casino-view.scrollable-fixed {
+    top: 38px;
+}
 }
 
 

@@ -62,7 +62,11 @@
 }
 .providers-nav-casino>ul>li>a.active { 
     color:#fff;
-    font-weight:700;
+	font-weight:600;
+}
+
+.game-img-box-b:before {
+    background: #052b46;    
 }
 
 /* categories casino fonts size */

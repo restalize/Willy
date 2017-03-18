@@ -14,9 +14,10 @@
 }
 
 .providers-nav-casino {
-    width: 116vw;
-    margin-left: -16vw;
-	float:none;
+    width: 121vw;
+    max-width: 125vw;
+    margin-left: -24vw;
+    float:none;
 }
 .search-category-nav-contain {
     position: absolute;

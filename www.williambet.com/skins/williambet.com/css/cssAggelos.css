@@ -60,9 +60,9 @@
 .providers-nav-casino>ul>li>a:hover { 
     color:fff;
 }
-.providers-nav-casino>ul>li>a.active { 
+.providers-nav-casino>ul>li>a:active { 
     color:fff;
-	font-weight:600;
+    font-weight:600;
 }
 
 /* categories casino fonts size */

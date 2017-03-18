@@ -36,7 +36,7 @@
     float: left;
     width: 100%;
     box-sizing: border-box;
-    margin:0px
+    margin:0px;
     position: relative;
     z-index: 33;
 }

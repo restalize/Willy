@@ -221,3 +221,25 @@
     margin-top: -3px;
     height: 20px;
 }
+.group-games-contain-v3>.title-championship-v3 {
+    background: #052b46;
+}
+.title-competition-dashboard-v3 {
+    background: #008abf;
+}
+.bet-accept-changes-b-v3 {
+    background: #052b46;
+}
+.all-events-info-stake-v3 {
+    background: #052b46;
+}
+.sport-name-up-game-v3 {
+    height: 38px;
+    background: #ffffff;
+    position: relative;
+    padding: 4px 30px 0 34px;
+    margin: 0 0 3px;
+}
+.single-sport-box-v3.sport-closed {
+    max-height: 38px;
+}

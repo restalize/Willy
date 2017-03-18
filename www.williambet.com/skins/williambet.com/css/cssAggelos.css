@@ -108,10 +108,10 @@
 
 .left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
     color: #ffffff;
-    background: #008abf;
+    background: #00b0f0;
     border-left-style: solid;
     border-left-width: 3px;
-    border-left-color: #052b46;
+    border-left-color:  #0089c4;;
 }
 .left-column-casino-nav>ul {
     background: none;

@@ -108,10 +108,10 @@
 
 .left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
     color: #ffffff;
-    background: #00b0f0;
+    background: #008abf;
     border-left-style: solid;
     border-left-width: 3px;
-    border-left-color:  #0089c4;;
+    border-left-color: #0089c4;
 }
 .left-column-casino-nav>ul {
     background: none;
@@ -119,4 +119,18 @@
 .left-column-casino-nav>ul>li {
     background-color:white;
 	margin-bottom:1px;
+}
+
+.favorite-icon-view.active, .favorite-icon-view:hover {
+    color: #008abf;
+}
+
+.deposit-alert-contain.casino .game-name-b-favorite, .game-name-b-favorite {
+    height: 35px;
+}
+.deposit-alert-contain.casino .game-name-b-favorite, .game-name-b-favorite {
+    font: 13px/36px Arial,Helvetica,sans-serif;
+}
+.favorite-icon-view {
+    top: 10px;
 }

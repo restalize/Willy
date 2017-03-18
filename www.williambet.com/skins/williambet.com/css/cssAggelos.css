@@ -22,7 +22,6 @@
 .search-category-nav-contain {
     position: absolute;
     top: 50%;
-    left: 15vw;
     width: 210px;
     box-sizing: border-box;
     transform: translate3d(0,0,0);

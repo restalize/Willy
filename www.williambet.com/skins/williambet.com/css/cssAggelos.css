@@ -193,3 +193,6 @@
 .sub-nav-filter-time-v3>ul>li.icon-checkmark, .sub-nav-filter-time-v3>ul>li.icon-checkmark:hover {
     background: #008abf;
 }
+.switcher-view-b.active {
+    background: #008abf;
+}

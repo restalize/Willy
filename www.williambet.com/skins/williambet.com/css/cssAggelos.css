@@ -202,3 +202,18 @@
 .sub-nav-filter-time-v3>ul>li {
     background: #46515d;
 }
+.game-score-multiset ul.title li, .live-game-container .sport-title {
+    background: #052b46;
+}
+.sub-nav-filter-time-v3>ul>li>span {
+    box-shadow: 0 0px 0 #222 inset;
+}
+.dndPlaceholder .close-multiv-j, .multiview-contain .close-multiv-j {
+    background: #052b46;
+}
+.game-center-container-multi-v3 .dndPlaceholder, .game-center-container-multi-v3 .multiview-contain {
+    background: #052b46;
+}
+.multiview-contain.has-statistics .multi-view-game-info-v3 {
+    background: #fff;
+}

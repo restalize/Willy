@@ -31,13 +31,9 @@
 }
 }
 /* end of css quire */
-
-.slide-casino-new-img-b{
-	background-position:center top;
+.slide-casino-new-img-b>a, .slide-casino-new-img-b>img {
+    background-position:center top ;
 }
-
-
-
 
 .all-casino-games-box {
     float: left;

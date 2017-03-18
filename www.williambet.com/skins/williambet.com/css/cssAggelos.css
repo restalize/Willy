@@ -29,11 +29,12 @@
   .fixed-nav-wrapper-casino-view.scrollable-fixed {
     top: 38px;
 }
-}
-/* end of css quire */
-.slide-casino-new-img-b>a, .slide-casino-new-img-b>img {
+  .slide-casino-new-img-b>a, .slide-casino-new-img-b>img {
     background-position:center top ;
 }
+}
+/* end of css quire */
+
 
 .all-casino-games-box {
     float: left;

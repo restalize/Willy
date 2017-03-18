@@ -1630,3 +1630,11 @@ search-casino-box-b .block-search input[type=text] {
 background:transparent;
 }
 
+
+
+/* after meeting with aggelos */
+
+.game-center-container-multi-v3 .dndPlaceholder, .game-center-container-multi-v3 .multiview-contain {
+    background: #052b46;
+
+}

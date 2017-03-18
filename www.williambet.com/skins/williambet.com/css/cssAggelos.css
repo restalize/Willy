@@ -196,3 +196,9 @@
 .switcher-view-b.active {
     background: #008abf;
 }
+.time-filter-v3.active {
+    background: #2A343E;
+}
+.sub-nav-filter-time-v3>ul>li {
+    background: #46515d;
+}

@@ -80,7 +80,7 @@
 
 /* categories casino fonts size */
 .left-column-casino-nav>ul>li {
-    border-bottom: 1px solid #e9edf0;
+    border-bottom: 0px solid #e9edf0;
     color: #818181;
     font: 14px/40px Arial,Helvetica,sans-serif;
     padding: 0 15px;
@@ -104,4 +104,19 @@
 
 .icon-container-product {
     display: none;
+}
+
+.left-column-casino-nav>ul>li.active, .left-column-casino-nav>ul>li:hover {
+    color: #ffffff;
+    background: #008abf;
+    border-left-style: solid;
+    border-left-width: 3px;
+    border-left-color: #052b46;
+}
+.left-column-casino-nav>ul {
+    background: none;
+}
+.left-column-casino-nav>ul>li {
+    background-color:white;
+	margin-bottom:1px;
 }

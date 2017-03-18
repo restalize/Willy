@@ -189,3 +189,7 @@
 .mini-title-box-gameview-v3.active, .mini-title-box-gameview-v3:hover {
     background: #052b46;
 }
+
+.sub-nav-filter-time-v3>ul>li.icon-checkmark, .sub-nav-filter-time-v3>ul>li.icon-checkmark:hover {
+    background: #008abf;
+}

@@ -66,7 +66,16 @@
 }
 
 .game-img-box-b:before {
-    background: #052b46;    
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(5, 43, 70);
 }
 
 /* categories casino fonts size */
@@ -87,4 +96,12 @@
 .body-wrapper.homepage .lmb-sport-select-j {
     margin: 0;
     height: 42px;
+}
+
+.product-list-contain>ul>li .product-slider-image {
+    display: block;
+}
+
+.icon-container-product {
+    display: none;
 }

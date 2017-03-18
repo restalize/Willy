@@ -243,3 +243,22 @@
 .single-sport-box-v3.sport-closed {
     max-height: 38px;
 }
+.live-column-title-v3>h2>span {
+    background: #052b46;
+}
+.live-column-title-v3 .upcoming-icon-v3 {
+    background: #052b46;
+}
+.live-column-title-v3, .upcoming-column-title-v3 {
+    background: #052b46;
+}
+.live-column-title-v3 .upcoming-icon-v3:before {
+    color: #f00;
+}
+.upcoming-column-title-v3>h2>span {
+    background: #008abf;
+    color: #fff;
+}
+.upcoming-icon-v3 {
+    background: #008abf;
+}

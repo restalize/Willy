@@ -49,7 +49,7 @@
 
  /* icons orientation live>dashboard */
 .sport-icon-v3 {
-    top: -6px;
+    top: -2px;
 }
 
 /* filters in casino */
@@ -141,6 +141,42 @@
 .competition-title-v3 {
     background: #052b46;
 }
+/*
 .game-info.game-cyberfootball .game-control .statistics-toggle, .game-info.game-soccer .game-control .statistics-toggle {
+    background: #052b46;
+}
+*/
+.filter-view-v3 {
+    background: #052b46;
+}
+.competition-title-v3:hover {
+    background: #1b415d;
+}
+.view-switcher-v3>ul>li.active>button, .view-switcher-v3>ul>li:hover>button {
+    background: #052b46;
+}
+.statistic-view-v3 .game-score-multiset ul.title li, .statistic-view-v3 .live-game-container .sport-title {
+    background: #052b46;
+}
+.animation-video-title-row-v3 {
+    height: 36px;
+    background: #052b46;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(5, 43, 70);
+    border-bottom: 0px;
+    border-radius: 2px 2px 0 0;
+}
+.betslip-title-v3 {
+    background: #052b46;
+}
+.mini-game-container-j .choose-minigame-j {
     background: #052b46;
 }

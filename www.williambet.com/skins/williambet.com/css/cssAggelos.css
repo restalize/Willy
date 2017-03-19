@@ -339,3 +339,7 @@
 .lmb-time-selector li.active-j {
     box-shadow: inset 0 -2px 0 #00b0f0;
 }
+.live-calendar-16-content-j li {
+    color: #333;
+    background: #CFD4DA;
+}

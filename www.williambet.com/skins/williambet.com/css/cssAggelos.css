@@ -326,3 +326,16 @@
     background: #ffffff;
     color: #818181;
 }
+.body-wrapper.homepage .lmb-sport-select-j ul {
+    margin: 5px;
+}
+.lmb-sport-select-j {
+    background-color: #00b0f0;
+}
+.body-wrapper.homepage .lmb-time-selector {
+    box-shadow: none;
+    background: #052b46;
+}
+.lmb-time-selector li.active-j {
+    box-shadow: inset 0 -2px 0 #00b0f0;
+}

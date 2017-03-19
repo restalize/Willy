@@ -364,3 +364,8 @@
     color: #333;
     box-shadow: inset 0 1px 0 #302e2e;
 }
+.navigation-of-results-j {
+    background: #052b46;
+	margin: 0 0 3px;
+	padding: 10px 10px 28px;
+}

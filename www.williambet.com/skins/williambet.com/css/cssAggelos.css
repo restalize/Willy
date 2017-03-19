@@ -382,3 +382,11 @@
 .results-header-j h2 {
     color: black;
 }
+.results-header-j {
+    background: #e9edf0;
+    border-bottom: 1px solid #052b46;
+    box-shadow: 0 1px 0 #393939;
+}
+.results-center-ba-j {
+    margin: 0 0 4px;
+   }

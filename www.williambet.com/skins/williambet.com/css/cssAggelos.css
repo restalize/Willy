@@ -292,3 +292,37 @@
 .providers-nav-casino>ul {
     width: 100%;
 }
+.live-cal16-day-selector-j .lc16-right-section-j ul li.active {
+    background: #008abf;
+    border-bottom-color: #008abf;
+}
+.live-cal16-day-selector-j .lc16-right-section-j ul {
+    border-bottom: 2px solid #008abf;
+}
+.live-cal16-day-selector-j .lc16-right-section-j ul li {
+    background: #052b46;
+}
+.lc16-sport-selector-j ul li {
+    background-color: white;
+}
+.lc16-sport-selector-j ul li:hover {
+    background: #052b46;
+}
+.live-cal16-day-selector-j .lc16-left-sport-section-j {
+    background: #052b46;
+}
+.lc16-sport-selector-j p {
+    background: #052b46;
+}
+.live-cal16-day-selector-j .lc16-right-section-j ul li:hover {
+    background: #00b0f0;
+}
+.live-calendar-16-content-j ul.filter-j li {
+    background-color: #ffffff;
+    color: #818181;
+
+}
+.live-calendar-16-content-j ul:nth-child(even) li {
+    background: #ffffff;
+    color: #818181;
+}

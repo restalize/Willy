@@ -384,9 +384,8 @@ body .better-homepage .row:first-of-type {
     background: linear-gradient(to right, #104b7d, #0476c2);
 }
 
-body .better-homepage .row {
-    background: #b2bbbf;
-}
+
+
 
 .headerVersion_2 .conteiner.show-fix .header-container-b,
 .headerVersion_2 .conteiner.show-game .header-container-b {
@@ -1639,3 +1638,9 @@ background:transparent;
 .market-info-view-d-v3 {
     padding: 0 2px 0 2px;
 }
+/*  bg main 
+body .better-homepage .row {
+    background: #b2bbbf;
+}
+
+*/

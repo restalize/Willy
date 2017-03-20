@@ -409,3 +409,19 @@
 .provider-navigation-j li.active-j {
     border-color: #00b0f0;
 }
+.promotions-section-j {
+    background: #00b0f0;
+}
+.intro-section-j .button-group-j button {
+    border: 1px solid #00b0f0;
+    background: #052b46;
+}
+.intro-section-j .button-group-j button:hover {
+    border-color: #052b46;
+    background: #00b0f0;
+}
+.intro-section-j .button-group-j li+li button:hover {
+    border-color: #052b46;
+    background: #00b0f0;
+    color: #fff;
+}

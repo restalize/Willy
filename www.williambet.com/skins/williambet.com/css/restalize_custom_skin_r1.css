@@ -493,12 +493,7 @@ body .better-homepage .row:first-of-type {
     background-color: #008abf;
 }
 
-body .better-homepage {
-    float: left;
-    width: 100%;
-    margin: 0 0 48px;
-    background: #e9edf0;
-}
+
 
 .simple-nav-b>ul>li.menu-visible-icon-b>label:before {
     font: 24px/26px icomoon;
@@ -1638,9 +1633,14 @@ background:transparent;
 .market-info-view-d-v3 {
     padding: 0 2px 0 2px;
 }
-/*  bg main 
+
 body .better-homepage .row {
     background: #b2bbbf;
 }
 
-*/
+body .better-homepage {
+    float: left;
+    width: 100%;
+    margin: 0 0 48px;
+ /*   background: #e9edf0;   */
+}

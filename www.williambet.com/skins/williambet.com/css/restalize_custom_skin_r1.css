@@ -1644,3 +1644,7 @@ body .better-homepage {
     margin: 0 0 48px;
  /*   background: #e9edf0;   */
 }
+
+.body-wrapper.homepage {
+    background:url(../images/stadium_BG.jpg);
+}

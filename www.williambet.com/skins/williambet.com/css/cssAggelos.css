@@ -390,3 +390,19 @@
 .results-center-ba-j {
     margin: 0 0 4px;
    }
+   
+  .fantasy .headerVersion_2 .conteiner:before, .first_deposit_bonus .headerVersion_2 .conteiner:before, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before, .games .headerVersion_2 .conteiner:before, .gameslanding .headerVersion_2 .conteiner:before, .livedealer .headerVersion_2 .conteiner:before, .pokerklas .headerVersion_2 .conteiner:before {
+    background: #052B46;
+    left: 0;
+    bottom: 0;
+    border-bottom: solid 2px #052B46;
+}
+.fantasy .headerVersion_2 .conteiner, .first_deposit_bonus .headerVersion_2 .conteiner, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, .games .headerVersion_2 .conteiner, .gameslanding .headerVersion_2 .conteiner, .livedealer .headerVersion_2 .conteiner, .pokerklas .headerVersion_2 .conteiner {
+    background: #052B46;
+}
+
+.header-nav-contain>ul>li.active>.top-menu-sub-a-t>a, .header-nav-contain>ul>li>.top-menu-sub-a-t>a:hover {
+    box-shadow: inset 0 -2px 0 #00b0f0;
+    color: #fff;
+    background: transparent;
+}

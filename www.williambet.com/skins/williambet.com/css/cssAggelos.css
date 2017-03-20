@@ -406,3 +406,6 @@
     color: #fff;
     background: transparent;
 }
+.provider-navigation-j li.active-j {
+    border-color: #00b0f0;
+}

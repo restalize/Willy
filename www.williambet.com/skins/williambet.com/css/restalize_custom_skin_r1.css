@@ -1651,3 +1651,13 @@ body .better-homepage {
 .body-wrapper.homepage {
     background:url(../images/stadium_BG.jpg);
 }
+
+.extended-license-footer {
+
+    border-top: 1px solid #284954;
+
+}
+
+.footer.new .footer-nav-b ul li a {
+    color: #7e939a;
+}

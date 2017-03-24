@@ -429,3 +429,25 @@
     /*content: url('https://9k2uqq.bn1304.livefilestore.com/y4mD0I0uqwHKGI40ksXvhWG99CXvD3ZVxZXv8XjKXkUeGaO9eSX-tXfToScorprGE334ulepWi1l-XWOd06YiBu8nQbw-yoOkqUYbeTPgm8nWeXK1TTuudojjVq94Xn-4yOsCXfb7_7qZsqkosmUep5PEqJaXGCLkRqU-mLquOkJTGq3AG11MW0uBfGkNEqcG4kj7zCe2t6Y8Mfm4tMJiOyQA?width=18&height=18&cropmode=none');*/
     content: url(https://github.com/restalize/willy/blob/b5d2be45196b536ffeba43b64764dbcb4d354de6/www.williambet.com/images/ball-soccer.png?raw=true);
 }
+.arrow-view-v3 {
+    width: 40px;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font: 16px/41px icomoon;
+    color: transparent;
+    text-align: right;
+    padding-right: 10px;
+    transition: color 240ms;
+}
+.sports-item-v3.Soccer.active>.arrow-view-v3 {
+    background: #008abf;
+    /* -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 53% 100%); */
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 53% 100%); */
+    /* -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%); */
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%); */
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+    width: 60px;
+}

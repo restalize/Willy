@@ -668,3 +668,6 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
     border-right-color: #052b46;
 }
+.md-progress-circular.md-theme .md-inner .md-left .md-half-circle {
+    border-left-color: #052b46;
+}

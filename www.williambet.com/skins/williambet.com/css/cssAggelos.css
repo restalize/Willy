@@ -426,5 +426,6 @@
     color: #fff;
 }
 .Football::before, .Soccer::before {
-    content: url('https://9k2uqq.bn1304.livefilestore.com/y4mD0I0uqwHKGI40ksXvhWG99CXvD3ZVxZXv8XjKXkUeGaO9eSX-tXfToScorprGE334ulepWi1l-XWOd06YiBu8nQbw-yoOkqUYbeTPgm8nWeXK1TTuudojjVq94Xn-4yOsCXfb7_7qZsqkosmUep5PEqJaXGCLkRqU-mLquOkJTGq3AG11MW0uBfGkNEqcG4kj7zCe2t6Y8Mfm4tMJiOyQA?width=18&height=18&cropmode=none');
+    /*content: url('https://9k2uqq.bn1304.livefilestore.com/y4mD0I0uqwHKGI40ksXvhWG99CXvD3ZVxZXv8XjKXkUeGaO9eSX-tXfToScorprGE334ulepWi1l-XWOd06YiBu8nQbw-yoOkqUYbeTPgm8nWeXK1TTuudojjVq94Xn-4yOsCXfb7_7qZsqkosmUep5PEqJaXGCLkRqU-mLquOkJTGq3AG11MW0uBfGkNEqcG4kj7zCe2t6Y8Mfm4tMJiOyQA?width=18&height=18&cropmode=none');*/
+    content: url(https://9u2uqq.bn1304.livefilestore.com/y4pWhZ2tQzZ9QwMAVNix49lYWVBnbtn9a_C…XF_orAlHQbhb3TI3A36Sg/soccer-ball-clip-art-png-3%20%28Custom%29.png?psid=1);
 }

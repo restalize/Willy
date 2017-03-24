@@ -451,3 +451,140 @@
     clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
     width: 60px;
 }
+
+
+
+
+
+
+
+
+.register-contain-new {
+    float: right;
+    width: 55%;
+}
+
+.register-steps-b {
+    float: right;
+    width: 768px;
+    display: block;
+    margin: 20px 0;
+    background: url(https://cmsbetconstruct.com/content/images/dcdb68ba35b8f55ffaa6e75fdcd508c9_528_sidebar.png);
+    background-position: left;
+    background-size: 319px;
+    background-color: #00B0F0;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+	box-shadow: inset 0 0px 56px 2px #02516e;
+}
+.logo-form-b {
+    float: left;
+    width: 100%;
+    height: 76px;
+    background: url(../images/logo_william2.png)no-repeat 0 20px/contain;
+    background-position: 50% 50%;
+    background-size: contain;
+    margin: 15px 0 20px;
+}
+.register-steps-b label, .registration-list-columns-j .reg-list-item-wrapper-j {
+    color: #ffffff;
+    font: 12px/14px Arial,Helvetica,sans-serif;
+}
+.form-register-layout.signin .field-separator .form-text input, .input-separator-b input, .reg-list-item-wrapper-j input, .register-steps-b .reg-form-input-number input, .register-steps-b .registration-form-city input, .register-steps-b input, .send-message-j input[type=text] {
+    background: #ffffff;
+    box-sizing: border-box;
+    padding: 0 14px;
+    margin: 0;
+    font: 12px Arial,Helvetica,sans-serif;
+    height: 36px;
+    border-radius: 12px;
+    width: 100%;
+    border: 0px solid #555;
+    color: #818181;
+    transition: border-color 200ms;
+    box-shadow: none;
+    -webkit-text-fill-color: #818181;
+}
+.block-slider.popup .form-register-layout.signin .button-sign ul li a {
+    border: none;
+    font: 11px/14px Arial,Helvetica,sans-serif;
+    color: #ffffff;
+    padding: 0 0 0 15px;
+    position: relative;
+}
+
+label.sign-in-checkbox-j {
+    position: relative;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding-left: 25px;
+    color: #ffffff;
+    font: 12px/14px Arial,Helvetica,sans-serif;
+}
+
+label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+.button-confirm>button:disabled {
+    color: #222;
+    background: #fff;
+    border-radius: 15px;
+    cursor: default;
+}
+
+.block-slider.popup .all-popup-separator .register-information-b h3 {
+    float: left;
+    width: 100%;
+    font-weight: 700;
+    color: #ffffff;
+    font: 16px/18px Arial,Helvetica,sans-serif!important;
+    margin: 0 0 5px;
+    box-shadow: none;
+    text-transform: none;
+    text-shadow: none;
+}
+.form-register-layout.partial-registration .register-steps-b {
+    width: 768px;
+}
+.block-sign-in-form .select-j select, .contain-cashier-forms .select-block select, .left-block-history .form-sign-in .select-block select {
+    border: 1px solid #555;
+    background: #ffffff;
+    height: 36px;
+    color: #818181;
+    padding: 0 33px 0 10px;
+    width: 100%;
+    transition: border-color 200ms;
+    border-radius: 13px;
+}
+.block-sign-in-form .select-j select>option, .contain-cashier-forms .select-block select>option, .left-block-history .form-sign-in .select-block select>option {
+    background: #1c3753;
+    border-color: #2f2f2f;
+    color: #ffffff;
+}
+.account-link-b>p {
+    display: inline-block;
+    padding: 0 10px 0 0;
+    color: #ffffff;
+    margin: 0;
+    width: auto;
+    float: none;
+}
+.account-link-b>span {
+    display: inline-block;
+    color: #ffffff;
+    border-bottom: 1px dotted #c1c1c1;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+.form-register-layout.partial-registration .register-steps-b .mini-checkbox-b>label a {
+    color: #1c3753;
+}

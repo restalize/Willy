@@ -633,7 +633,25 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     color: #052b46;
 }
 .market-contain-b .race-market ul li {
-    box-shadow: none;
     background: #052b46;
 }
-
+.form-control {
+    background: #e9edf0;
+}
+.date-view {
+    background: #e9edf0;
+}
+.results-select-j select optgroup, .results-select-j select option {
+    background: #cfd4da;
+}
+.input-group .dropdown-menu table, .input-group .dropdown-menu table tr th, .input-group .dropdown-menu table tr:first-child th {
+    background: #052b46;
+}
+.dropdown-menu table tr td .btn-default.active, .dropdown-menu table tr td .btn-default.active:hover {
+    background: #008abf;
+    color: #fff;
+    border-right-color: #008abf;
+    border-bottom-color: #008abf;
+    border-top-color: #008abf;
+    border-left-color: #008abf;
+}

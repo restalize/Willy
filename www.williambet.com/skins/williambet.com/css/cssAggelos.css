@@ -636,3 +636,7 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     box-shadow: none;
     background: #052b46;
 }
+.results-table-j table tr td:first-child, .results-table-j table th:first-child {
+    width: 15%;
+    background: #fff;
+}

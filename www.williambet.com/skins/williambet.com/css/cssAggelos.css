@@ -655,3 +655,6 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     border-top-color: #008abf;
     border-left-color: #008abf;
 }
+.results-select-j {
+    background: #e9edf0;
+}

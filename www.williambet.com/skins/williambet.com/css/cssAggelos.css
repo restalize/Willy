@@ -632,3 +632,7 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .virtual-games .upcoming-events ul li.upcoming-title {
     color: #052b46;
 }
+.market-contain-b .race-market ul li {
+    box-shadow: none;
+    background: #052b46;
+}

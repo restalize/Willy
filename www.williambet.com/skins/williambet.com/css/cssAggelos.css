@@ -588,3 +588,6 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .form-register-layout.partial-registration .register-steps-b .mini-checkbox-b>label a {
     color: #1c3753;
 }
+.search-casino-box-b .block-search input[type=text] {
+    border: 0.7px solid rgba(68, 68, 68, 0.29);
+}

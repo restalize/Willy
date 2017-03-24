@@ -1678,3 +1678,7 @@ body .better-homepage {
 .lmb-table-j li:hover .market-info-b span {
     color: #00b0f0;
 }
+.mini-box-market-info-v3>span {
+    font: 14px/28px arial, Helvetica, sans-serif;
+    color: #008abf;
+}

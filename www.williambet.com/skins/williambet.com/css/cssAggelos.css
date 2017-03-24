@@ -591,3 +591,41 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .search-casino-box-b .block-search input[type=text] {
     border: 0.7px solid rgba(68, 68, 68, 0.29);
 }
+.virtual-games .v-sports-tab ul li {
+    color: #fff;
+    background: #052b46;
+    border: 1px solid #052b46;
+}
+.virtual-games .v-sports-tab ul li.active {
+    background: #008abf;
+    color: #fff;
+}
+.virtual-games .upcoming-events {
+    border-bottom: 2px solid #052b46;
+    background: #fff;
+}
+.virtual-games .upcoming-events {
+    border-bottom: 2px solid #052b46;
+    background: #fff;
+}
+.virtual-games .upcoming-events ul li.active {
+    background: #052b46;
+    border-color: #00b0f0;
+    color: #fff;
+}
+.virtual-games .game-title {
+    background: #ffffff;
+}
+.virtual-games .virt-video-container {
+    background: #052b46;
+}
+.virtual-games .competitopn-switch ul li.active {
+    color: rgba(0, 0, 0, 0.78);
+    background: #d6dbdd;
+}
+.header-nav-contain>ul>li.sub-menu-item>.top-menu-sub-a-t>a {
+    background: #d6dbdd;
+}
+.header-nav-contain>ul>li.sub-menu-item .top-menu-sub-a-t>a:hover {
+    background: #052b46;
+}

@@ -662,10 +662,9 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     border-top-color: #052b46;
     border-bottom-color: #052b46;
 }
-.md-progress-circular.md-theme .md-inner .md-gap {
-    border-top-color: #052b46;
-    border-bottom-color: #052b46;
-}
 .md-progress-circular.md-theme .md-inner .md-left .md-half-circle, .md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
     border-top-color: #052b46;
+}
+.md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
+    border-right-color: #052b46;
 }

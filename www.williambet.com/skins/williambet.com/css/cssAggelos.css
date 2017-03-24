@@ -629,3 +629,6 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .header-nav-contain>ul>li.sub-menu-item .top-menu-sub-a-t>a:hover {
     background: #052b46;
 }
+.virtual-games .upcoming-events ul li.upcoming-title {
+    color: #052b46;
+}

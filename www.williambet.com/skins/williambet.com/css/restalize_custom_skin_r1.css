@@ -1661,3 +1661,18 @@ body .better-homepage {
 .footer.new .footer-nav-b ul li a {
     color: #7e939a;
 }
+
+.markets-group-wrap-v3>ul.has-dropdown.show-dropdown>li.more-j, .markets-group-wrap-v3>ul.has-dropdown.show-dropdown>li.more-j:hover {
+    background: #cfd4da;
+    background-clip: padding-box;
+    color: #333;
+}
+
+.markets-group-wrap-v3>ul.has-dropdown>li:nth-child(7)~li {
+    background: #cfd4da;
+}
+
+.markets-group-wrap-v3>ul.has-dropdown>li:nth-child(7)~li.active, .markets-group-wrap-v3>ul.has-dropdown>li:nth-child(7)~li:hover {
+    background: #008abf;
+    color: #fff;
+}

@@ -1676,3 +1676,8 @@ body .better-homepage {
     background: #008abf;
     color: #fff;
 }
+
+.market-title-v3>.arrow-view-v3 {
+
+    padding-right: 5px;
+}

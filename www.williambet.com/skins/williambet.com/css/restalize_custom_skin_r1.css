@@ -1,13 +1,6 @@
 /* r3st is here */
-
-
 /* LIVE SPORTS */
-
-
 /* General */
-
-
-
 .single-game-item-v3.active .team-name-1-v3>p {
     width: 100%;
     font: 12px/18px Arial, Helvetica, sans-serif;
@@ -1680,4 +1673,8 @@ body .better-homepage {
 .market-title-v3>.arrow-view-v3 {
 
     padding-right: 5px;
+}
+
+.lmb-table-j li:hover .market-info-b span {
+    color: #00b0f0;
 }

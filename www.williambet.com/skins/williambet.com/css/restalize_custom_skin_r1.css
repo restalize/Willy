@@ -1714,7 +1714,7 @@ body .better-homepage {
     box-sizing: border-box;
     float: left;
     width: 100%;
-    margin: 10p;
+    margin: 10px;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
@@ -2400,7 +2400,7 @@ label.sign-in-checkbox-j span:before {
     box-sizing: border-box;
     float: left;
     width: 100%;
-    margin: 10p;
+    margin: 10px;
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;

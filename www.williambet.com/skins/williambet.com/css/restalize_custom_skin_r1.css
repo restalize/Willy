@@ -2032,7 +2032,7 @@ label.sign-in-checkbox-j span:before {
     text-transform: capitalize;
 }
 .form-register-layout.partial-registration .register-steps-b .mini-checkbox-b>label a {
-    color: #1c3753;
+    color: #00b0f0;
 }
 .search-casino-box-b .block-search input[type=text] {
     border: 0.7px solid rgba(68, 68, 68, 0.29);
@@ -2692,9 +2692,7 @@ label.sign-in-checkbox-j span:before {
     cursor: pointer;
     text-transform: capitalize;
 }
-.form-register-layout.partial-registration .register-steps-b .mini-checkbox-b>label a {
-    color: #1c3753;
-}
+
 .search-casino-box-b .block-search input[type=text] {
     border: 0.7px solid rgba(68, 68, 68, 0.29);
 }

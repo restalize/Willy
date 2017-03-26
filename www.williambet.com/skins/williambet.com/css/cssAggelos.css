@@ -1346,14 +1346,17 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     border-left-color: #052b46;
 }
 .live-casino-games-by-ul-column li:hover>i {
-    background: #052b46;
+    background: #00b0f0;
     color: #fff;
 }
 .live-casino-games-by-ul-column li button {
-    background: #052b46;
+    background: #00b0f0;
     color: #fff;
 }
 .results-table-j table tr td, .results-table-j table tr th {
     background: #cfd4da;
     box-shadow: inset 0 1px 0 #302e2e;
+}
+.md-progress-circular.md-theme .md-inner .md-right .md-half-circle {
+    border-right-color: #052b46;
 }

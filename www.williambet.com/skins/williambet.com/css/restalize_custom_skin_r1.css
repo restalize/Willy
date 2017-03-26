@@ -1911,10 +1911,8 @@ body .better-homepage {
     margin: 20px 0;
     background: url(../images/welcome_login.jpg);
     background-position: left;
-    background-size: 250px;
     background-color: #2a343e;
     background-repeat: no-repeat;
-    background-position: left bottom;
 }
 .logo-form-b {
     float: left;

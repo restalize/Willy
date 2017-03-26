@@ -1346,11 +1346,11 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     border-left-color: #052b46;
 }
 .live-casino-games-by-ul-column li:hover>i {
-    background: #00b0f0;
+    background: #052b46;
     color: #fff;
 }
 .live-casino-games-by-ul-column li button {
-    background: #00b0f0;
+    background: #052b46;
     color: #fff;
 }
 .results-table-j table tr td, .results-table-j table tr th {

@@ -353,18 +353,9 @@
 .results-center-ba-j {
     box-shadow: 0 3px 0 #052b46;
 }
-.results-table-j table tr th {
-    background-color: #ffffff;
-    color: #818181;
-}
 .button-container-j button {
     color: #fff;
     background: #008abf;
-}
-.results-table-j table tr td, .results-table-j table tr th {
-    /*background: #CFD4DA;*/
-    color: #333;
-    box-shadow: inset 0 1px 0 #302e2e;
 }
 .navigation-of-results-j {
     background: #052b46;

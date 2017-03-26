@@ -1357,3 +1357,19 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 .results-table-j table tr th {
     background-color: #ffffff!important;
 }
+.sports-item-v3.Tennis.active>.arrow-view-v3 {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+    width: 60px;
+}
+.sports-item-v3.Basketball.active>.arrow-view-v3 {
+    width: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+}
+.sports-item-v3.Volleyball.active>.arrow-view-v3 {
+    width: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+}
+.sports-item-v3.IceHockey.active>.arrow-view-v3 {
+    width: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+}

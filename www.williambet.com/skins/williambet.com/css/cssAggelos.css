@@ -1373,3 +1373,31 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     width: 60px;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
 }
+.centr-tabs-block ul li.active-tab {
+    box-shadow: 0 -3px 0 #00b0f0 inset;
+}
+.type-rezult-won {
+    background: #ff0000;
+}
+.form-register-layout.signin .field-separator .form-text input:-webkit-autofill, .form-register-layout.signin .field-separator .form-text input:-webkit-autofill:focus, .input-separator-b input:-webkit-autofill, .input-separator-b input:-webkit-autofill:focus, .reg-list-item-wrapper-j input:-webkit-autofill, .reg-list-item-wrapper-j input:-webkit-autofill:focus, .register-steps-b .reg-form-input-number input:-webkit-autofill, .register-steps-b .reg-form-input-number input:-webkit-autofill:focus, .register-steps-b .registration-form-city input:-webkit-autofill, .register-steps-b .registration-form-city input:-webkit-autofill:focus, .register-steps-b input:-webkit-autofill, .register-steps-b input:-webkit-autofill:focus, .send-message-j input[type=text]:-webkit-autofill, .send-message-j input[type=text]:-webkit-autofill:focus {
+    box-shadow: 0 0 0 100px #ffffff inset;
+    -webkit-text-fill-color: #818181;
+}
+.button-confirm>button {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    background: #ffffff;
+    text-transform: uppercase;
+    font: 14px Arial,Helvetica,sans-serif;
+    height: 36px;
+    color: black;
+    cursor: pointer;
+    padding: 0;
+    top: 0;
+    max-width: inherit;
+    border-radius: 13px;
+    margin: 0;
+    border: 0;
+    transition: 200ms background,200ms border-color;
+}

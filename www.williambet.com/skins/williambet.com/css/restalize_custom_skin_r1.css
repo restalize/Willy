@@ -2860,3 +2860,6 @@ label.sign-in-checkbox-j span:before {
 .filter-row-v3>ul>li>i {
     color: #8598a7;
 }
+.mini-filters-box-v3>ul>li>.time-filter-v3>p .arrow-rotate-filter-v3 {
+    color: #e8e8e8;
+}

@@ -1125,31 +1125,11 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 
 .register-contain-new {
     float: right;
-    width: 55%;
+    width: 65%;
 }
 
-.register-steps-b {
-    float: right;
-    width: 768px;
-    display: block;
-    margin: 20px 0;
-    background: url(https://cmsbetconstruct.com/content/images/dcdb68ba35b8f55ffaa6e75fdcd508c9_528_sidebar.png);
-    background-position: left;
-    background-size: 319px;
-    background-color: #00B0F0;
-    background-repeat: no-repeat;
-    background-position: left bottom;
-	box-shadow: inset 0 0px 56px 2px #02516e;
-}
-.logo-form-b {
-    float: left;
-    width: 100%;
-    height: 76px;
-    background: url(../images/logo_william2.png)no-repeat 0 20px/contain;
-    background-position: 50% 50%;
-    background-size: contain;
-    margin: 15px 0 20px;
-}
+
+
 .register-steps-b label, .registration-list-columns-j .reg-list-item-wrapper-j {
     color: #ffffff;
     font: 12px/14px Arial,Helvetica,sans-serif;

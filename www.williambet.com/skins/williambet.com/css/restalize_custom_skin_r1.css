@@ -1941,7 +1941,6 @@ body .better-homepage {
     margin: 0;
     font: 12px Arial, Helvetica, sans-serif;
     height: 36px;
-    border-radius: 12px;
     width: 100%;
     border: 0px solid #555;
     color: #818181;
@@ -1980,7 +1979,7 @@ label.sign-in-checkbox-j span:before {
 .button-confirm>button:disabled {
     color: #222;
     background: #fff;
-    border-radius: 15px;
+ 
     cursor: default;
 }
 .block-slider.popup .all-popup-separator .register-information-b h3 {
@@ -2007,7 +2006,6 @@ label.sign-in-checkbox-j span:before {
     padding: 0 33px 0 10px;
     width: 100%;
     transition: border-color 200ms;
-    border-radius: 13px;
 }
 .block-sign-in-form .select-j select>option,
 .contain-cashier-forms .select-block select>option,
@@ -2589,27 +2587,6 @@ label.sign-in-checkbox-j span:before {
     color: #ffffff;
     font: 12px/14px Arial, Helvetica, sans-serif;
 }
-.form-register-layout.signin .field-separator .form-text input,
-.input-separator-b input,
-.reg-list-item-wrapper-j input,
-.register-steps-b .reg-form-input-number input,
-.register-steps-b .registration-form-city input,
-.register-steps-b input,
-.send-message-j input[type=text] {
-    background: #ffffff;
-    box-sizing: border-box;
-    padding: 0 14px;
-    margin: 0;
-    font: 12px Arial, Helvetica, sans-serif;
-    height: 36px;
-    border-radius: 12px;
-    width: 100%;
-    border: 0px solid #555;
-    color: #818181;
-    transition: border-color 200ms;
-    box-shadow: none;
-    -webkit-text-fill-color: #818181;
-}
 .block-slider.popup .form-register-layout.signin .button-sign ul li a {
     border: none;
     font: 11px/14px Arial, Helvetica, sans-serif;
@@ -2641,7 +2618,6 @@ label.sign-in-checkbox-j span:before {
 .button-confirm>button:disabled {
     color: #222;
     background: #fff;
-    border-radius: 15px;
     cursor: default;
 }
 .block-slider.popup .all-popup-separator .register-information-b h3 {
@@ -2668,7 +2644,6 @@ label.sign-in-checkbox-j span:before {
     padding: 0 33px 0 10px;
     width: 100%;
     transition: border-color 200ms;
-    border-radius: 13px;
 }
 .block-sign-in-form .select-j select>option,
 .contain-cashier-forms .select-block select>option,
@@ -2857,7 +2832,6 @@ label.sign-in-checkbox-j span:before {
     padding: 0;
     top: 0;
     max-width: inherit;
-    border-radius: 13px;
     margin: 0;
     border: 0;
     transition: 200ms background, 200ms border-color;

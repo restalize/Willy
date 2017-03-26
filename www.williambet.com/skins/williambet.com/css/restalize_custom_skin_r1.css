@@ -2857,3 +2857,6 @@ label.sign-in-checkbox-j span:before {
 .button-confirm.step-2 button:hover, .button-confirm>button:hover {
     background: #052B46;
 }
+.filter-row-v3>ul>li>i {
+    color: #8598a7;
+}

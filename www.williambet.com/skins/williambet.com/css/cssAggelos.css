@@ -1413,3 +1413,7 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     -webkit-transform: translateX(-3px);
     transform: translateX(-3px);
 }
+.sports-item-v3.Baseball.active>.arrow-view-v3 {
+    width: 60px;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);
+}

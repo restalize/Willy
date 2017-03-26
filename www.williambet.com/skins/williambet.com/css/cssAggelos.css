@@ -462,19 +462,19 @@
     width: 768px;
     display: block;
     margin: 20px 0;
-    background: url(../images/welcome_login.jpg);
+    background: url(https://cmsbetconstruct.com/content/images/dcdb68ba35b8f55ffaa6e75fdcd508c9_528_sidebar.png);
     background-position: left;
-    background-size: 250px;
-    background-color: #2a343e;
+    background-size: 319px;
+    background-color: #00B0F0;
     background-repeat: no-repeat;
     background-position: left bottom;
-
+	box-shadow: inset 0 0px 56px 2px #02516e;
 }
 .logo-form-b {
     float: left;
     width: 100%;
     height: 76px;
-    background: url(../images/Williambet_Logo_1BIG.png)no-repeat 0 20px/contain;
+    background: url(../images/logo_william2.png)no-repeat 0 20px/contain;
     background-position: 50% 50%;
     background-size: contain;
     margin: 15px 0 20px;
@@ -1125,11 +1125,31 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
 
 .register-contain-new {
     float: right;
-    width: 65%;
+    width: 55%;
 }
 
-
-
+.register-steps-b {
+    float: right;
+    width: 768px;
+    display: block;
+    margin: 20px 0;
+    background: url(https://cmsbetconstruct.com/content/images/dcdb68ba35b8f55ffaa6e75fdcd508c9_528_sidebar.png);
+    background-position: left;
+    background-size: 319px;
+    background-color: #00B0F0;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+	box-shadow: inset 0 0px 56px 2px #02516e;
+}
+.logo-form-b {
+    float: left;
+    width: 100%;
+    height: 76px;
+    background: url(../images/logo_william2.png)no-repeat 0 20px/contain;
+    background-position: 50% 50%;
+    background-size: contain;
+    margin: 15px 0 20px;
+}
 .register-steps-b label, .registration-list-columns-j .reg-list-item-wrapper-j {
     color: #ffffff;
     font: 12px/14px Arial,Helvetica,sans-serif;
@@ -1380,4 +1400,16 @@ label.sign-in-checkbox-j span:after, label.sign-in-checkbox-j span:before {
     margin: 0;
     border: 0;
     transition: 200ms background,200ms border-color;
+}
+.general-nav-block ul li ul li a:hover, .general-nav-block ul li ul li.sub-astive a {
+    background: #1b1b1b;
+    box-shadow: 3px 0 0 #00b0f0 inset, 4px 0 0 #00b0f0 inset;
+}
+.product-list-contain>ul>li>a>button {
+    height: 33px;
+    /* box-shadow: inset 0 0 0 #00b0f0; */
+    background: #052b46;
+    box-shadow: 1px 1px #00b0f0, 2px 2px #00b0f0, 3px 3px #00b0f0;
+    -webkit-transform: translateX(-3px);
+    transform: translateX(-3px);
 }

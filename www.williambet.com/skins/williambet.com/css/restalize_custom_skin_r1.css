@@ -1476,7 +1476,7 @@ body .better-homepage {
     }
 }
 /* end of css quire */
-@media only screen and (min-width: 1367px) {
+@media only screen and (min-width: 1367px) and (max-width: 1699px) {
     .providers-nav-casino>ul {
     width: 100%;
 }

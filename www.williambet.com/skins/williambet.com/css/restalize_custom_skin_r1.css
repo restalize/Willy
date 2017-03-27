@@ -2911,3 +2911,19 @@ label.sign-in-checkbox-j span:before {
 .Basketball:before {
      content: url(../images/basketballicon.png);
 }
+.time-title-view-v3>.arrow-view-v3, .title-championship-v3>.arrow-view-v3 {
+    line-height: 31px;
+    color: #cfd4da;
+}
+.title-competition-dashboard-v3>.arrow-view-v3 {
+    line-height: 30px;
+    color: #cfd4da;
+}
+.d-arrow-icon-v3 {
+    right: 2px;
+    font: 12px/36px icomoon;
+    color: #cfd4da;
+}
+.markets-count-view-v3>span {
+    font: 12px/30px
+}

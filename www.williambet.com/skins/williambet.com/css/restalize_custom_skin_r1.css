@@ -1474,7 +1474,10 @@ body .better-homepage {
 }
 
 @media only screen and min-width 1367px and max-width 1699px {
-.casino-top-slider-wrapper {
+ .providers-nav-casino>ul {
+    width: 100%;
+}
+	.casino-top-slider-wrapper {
 width:100vw;
 position:relative;
 left:50%;

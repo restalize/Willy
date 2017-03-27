@@ -2896,3 +2896,18 @@ label.sign-in-checkbox-j span:before {
 .Volleyball:before {
     content: url(../images/volleyballicon.png);
 }
+.Baseball:before {
+    content: url(../images/baseballicon.png);
+}
+.Handball:before {
+    content: url(../images/handballicon.png);
+}
+.IceHockey:before {
+   content: url(../images/icehockeyicon.png);
+}
+.AmericanFootball:before {
+    content: url(../images/americanfootballicon.png);
+}
+.Basketball:before {
+     content: url(../images/basketballicon.png);
+}

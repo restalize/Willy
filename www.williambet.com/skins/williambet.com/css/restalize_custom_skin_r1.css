@@ -2221,6 +2221,12 @@ text-align:center;
         box-sizing: border-box;
         transform: translate3d(0, 0, 0);
     }
+.providers-nav-casino {
+        width: 121vw;
+        max-width: 125vw;
+        margin-left: -24vw;
+        float: none;
+    }
     .fixed-nav-wrapper-casino-view.scrollable-fixed {
         top: 38px;
     }

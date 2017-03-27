@@ -2222,11 +2222,11 @@ text-align:center;
         transform: translate3d(0, 0, 0);
     }
 .providers-nav-casino {
-        width: 121vw;
-        max-width: 125vw;
-        margin-left: -24vw;
-        float: none;
-    }
+    width: calc(110vw + 34vw);
+    max-width: 144vw;
+    margin-left: -25vw;
+    float: none;
+}
     .fixed-nav-wrapper-casino-view.scrollable-fixed {
         top: 38px;
     }

@@ -1441,7 +1441,10 @@ body .better-homepage {
 /* casino top image fullwidth */
 
 @media only screen and (min-width: 1367px) {
-    .casino-top-slider-wrapper {
+    .providers-nav-casino>ul {
+    width: 100%;
+}
+	.casino-top-slider-wrapper {
         width: 100vw;
         margin: 0px;
         position: relative;
@@ -1731,9 +1734,7 @@ body .better-homepage {
 .all-markets-favorite-d-v3>ul {
     padding-top: 8px;
 }
-.providers-nav-casino>ul {
-    width: 100%;
-}
+
 .live-cal16-day-selector-j .lc16-right-section-j ul li.active {
     background: #008abf;
     border-bottom-color: #008abf;
@@ -2400,9 +2401,6 @@ label.sign-in-checkbox-j span:before {
 }
 .all-markets-favorite-d-v3>ul {
     padding-top: 8px;
-}
-.providers-nav-casino>ul {
-    width: 100%;
 }
 .live-cal16-day-selector-j .lc16-right-section-j ul li.active {
     background: #008abf;

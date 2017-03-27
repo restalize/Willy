@@ -2157,7 +2157,7 @@ label.sign-in-checkbox-j span:before {
 /* aggelos changes */
 /* casino top image fullwidth */
 
-@media only screen and (min-width: 1367px) {
+@media only screen and (min-width: 1367px) and (max-width:1699px) {
     .casino-top-slider-wrapper {
         width: 100vw;
         margin: 0px;
@@ -2167,12 +2167,6 @@ label.sign-in-checkbox-j span:before {
         margin-left: -50vw;
         margin-right: -50vw;
         float: none!important;
-    }
-    .providers-nav-casino {
-        width: 121vw;
-        max-width: 125vw;
-        margin-left: -24vw;
-        float: none;
     }
     .search-category-nav-contain {
         position: absolute;

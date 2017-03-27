@@ -2863,3 +2863,5 @@ label.sign-in-checkbox-j span:before {
 .mini-filters-box-v3>ul>li>.time-filter-v3>p .arrow-rotate-filter-v3 {
     color: #e8e8e8;
 }
+.product-list-contain>ul>li>a {
+    min-height: auto;

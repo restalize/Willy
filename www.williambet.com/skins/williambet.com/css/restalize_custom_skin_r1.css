@@ -2079,31 +2079,31 @@ color:#052b46;
 
 .sports-item-v3.Baseball.active>.arrow-view-v3 {
 width:60px;
-clip-path:polygon(00,100%0,100%100%,43%100%);
+clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
 background:#d2d2d2;
 }
 
 .sports-item-v3.Basketball.active>.arrow-view-v3,.sports-item-v3.IceHockey.active>.arrow-view-v3 {
 width:60px;
-clip-path:polygon(00,100%0,100%100%,43%100%);
+clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
 }
 
 .sports-item-v3.Soccer.active>.arrow-view-v3 {
 background:#008abf;
--webkit-clip-path:polygon(00,100%0,100%100%,43%100%);
-clip-path:polygon(00,100%0,100%100%,43%100%);
+-webkit-clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
+clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
 width:60px;
 }
 
 .sports-item-v3.Tennis.active>.arrow-view-v3 {
-clip-path:polygon(00,100%0,100%100%,43%100%);
+clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
 width:60px;
 background:#abc23f;
 }
 
 .sports-item-v3.Volleyball.active>.arrow-view-v3 {
 width:60px;
-clip-path:polygon(00,100%0,100%100%,43%100%);
+clip-path:polygon(0 0, 100% 0,100% 100%,43% 100%);
 background:#ffd54f;
 }
 

@@ -2865,15 +2865,7 @@ label.sign-in-checkbox-j span:before {
     background: #1b1b1b;
     box-shadow: 3px 0 0 #00b0f0 inset, 4px 0 0 #00b0f0 inset;
 }
-.product-list-contain>ul>li>a>button {
-    height: 33px;
-    /* box-shadow: inset 0 0 0 #00b0f0; */
-    
-    background: #052b46;
-    box-shadow: 1px 1px #00b0f0, 2px 2px #00b0f0, 3px 3px #00b0f0;
-    -webkit-transform: translateX(-3px);
-    transform: translateX(-3px);
-}
+
 .sports-item-v3.Baseball.active>.arrow-view-v3 {
     width: 60px;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 43% 100%);

@@ -2228,3 +2228,34 @@ transform:translate3d(0,0,0);
 background-position:center top;
 }
 }
+
+.mini-title-box-gameview-v3.active .favorite-icon-market-v3:before, .mini-title-box-gameview-v3:hover .favorite-icon-market-v3:before {
+    color: #939393;
+}
+
+.mini-title-box-gameview-v3.active .favorite-icon-market-v3.active:before, .mini-title-box-gameview-v3.active .favorite-icon-market-v3.remove:before, .mini-title-box-gameview-v3.active .favorite-icon-market-v3:hover:before, .mini-title-box-gameview-v3:hover .favorite-icon-market-v3.active:before, .mini-title-box-gameview-v3:hover .favorite-icon-market-v3.remove:before, .mini-title-box-gameview-v3:hover .favorite-icon-market-v3:hover:before {
+    color: #008abf;
+}
+
+.live-game-container .game-info.game-tennis .game-score-multiset {
+    background-image: url(../images/tennis_bg.jpg);
+}
+
+.live-game-container .game-info.game-basketball .game-score-multiset, .live-game-container .game-info.game-ebasketball .game-score-multiset {
+    background-image: url(../images/basketball_bg.jpg);
+}
+
+[3/28/17, 12:30:47 AM] Restalize: .sports-item-v3.Tennis.active>.arrow-view-v3 {
+    background: #abc23f;
+}
+
+.sports-item-v3.Volleyball.active>.arrow-view-v3 {
+    background: #ffd54f;
+}
+[3/28/17, 12:31:57 AM] Restalize: .sports-item-v3.Baseball.active>.arrow-view-v3 {
+    background: #d2d2d2;
+}
+
+.prematch-view .competition-title-v3.active>label, .prematch-view .competition-title-v3>label:hover {
+    color: #333;
+}

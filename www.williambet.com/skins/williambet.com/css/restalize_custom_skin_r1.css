@@ -2103,9 +2103,6 @@ label.sign-in-checkbox-j span:before {
     color: rgba(0, 0, 0, 0.78);
     background: #d6dbdd;
 }
-.header-nav-contain>ul>li.sub-menu-item>.top-menu-sub-a-t>a {
-    background: #d6dbdd;
-}
 .header-nav-contain>ul>li.sub-menu-item .top-menu-sub-a-t>a:hover {
     background: #052b46;
 }
@@ -2729,9 +2726,6 @@ label.sign-in-checkbox-j span:before {
 }
 .header-nav-contain>ul>li.sub-menu-item>.top-menu-sub-a-t>a {
     background: #d6dbdd;
-}
-.header-nav-contain>ul>li.sub-menu-item .top-menu-sub-a-t>a:hover {
-    background: #052b46;
 }
 .virtual-games .upcoming-events ul li.upcoming-title {
     color: #052b46;

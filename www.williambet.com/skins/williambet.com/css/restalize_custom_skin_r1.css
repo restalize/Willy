@@ -1440,7 +1440,7 @@ body .better-homepage {
 /* aggelos changes */
 /* casino top image fullwidth */
 
-@media only screen and (min-width: 1367px) {
+@media only screen and (min-width: 1700px) {
     .providers-nav-casino>ul {
     width: 100%;
 }
@@ -1476,7 +1476,42 @@ body .better-homepage {
     }
 }
 /* end of css quire */
-
+@media only screen and (min-width: 1367px) {
+    .providers-nav-casino>ul {
+    width: 100%;
+}
+	.casino-top-slider-wrapper {
+        width: 100vw;
+        margin: 0px;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw;
+        float: none!important;
+    }
+    .providers-nav-casino {
+        width: 136vw;
+    max-width: 135vw;
+        margin-left: -24vw;
+        float: none;
+    }
+    .search-category-nav-contain {
+        position: absolute;
+        top: 50%;
+        width: 210px;
+        box-sizing: border-box;
+        transform: translate3d(0, 0, 0);
+    }
+    .fixed-nav-wrapper-casino-view.scrollable-fixed {
+        top: 38px;
+    }
+    .slide-casino-new-img-b>a,
+    .slide-casino-new-img-b>img {
+        background-position: center top;
+    }
+}
+/* end of css quire */
 .slide-casino-new-img-b>a,
 .slide-casino-new-img-b>img {
     background-position: center top;

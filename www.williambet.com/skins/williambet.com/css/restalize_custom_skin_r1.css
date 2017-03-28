@@ -1452,12 +1452,12 @@ body .better-homepage {
         margin-right: -50vw;
         float: none!important;
     }
-    .providers-nav-casino {
-        width: 115vw;
-        max-width: 125vw;
-        margin-left: -24vw;
-        float: none;
-    }
+  .providers-nav-casino {
+    width: 120vw;
+    max-width: 125vw;
+    margin-left: -24vw;
+    float: none;
+}
     .search-category-nav-contain {
         position: absolute;
         top: 50%;

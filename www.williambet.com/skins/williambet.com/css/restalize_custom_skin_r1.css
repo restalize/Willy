@@ -2299,3 +2299,6 @@ text-align:center;
 .prematch-view .competition-title-v3.active>label, .prematch-view .competition-title-v3>label:hover {
     color: #333;
 }
+*:not(i):not(.fa){
+  font-family:Roboto;
+}

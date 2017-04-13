@@ -6,3 +6,6 @@
     background: #052b46;
     font-weight: 700;
 }
+.casino-resize-buttons>div button {
+    font-weight: 600;
+}

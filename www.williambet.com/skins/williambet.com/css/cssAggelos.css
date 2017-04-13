@@ -1,3 +1,8 @@
 .current-game-info-line {
     background: #008abf;
 }
+.list-games-casino-view-b:hover .game-name-b-favorite {
+    color: #ffffff;
+    background: #052b46;
+    font-weight: 700;
+}

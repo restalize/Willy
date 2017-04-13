@@ -9,3 +9,18 @@
 .casino-resize-buttons>div button {
     font-weight: 600;
 }
+.footer-j .back-block-j button {
+    border: 1px solid #00b0f0;
+    background: #00b0f0;
+}
+.footer-j .back-block-j button:hover {
+    background: #00b0f0;
+    border-color: #00b0f0;
+}
+/*footer b&w and hover normal*/
+.extended-license-footer>ul>li.gamble-logos-j>ul>li+li {
+    filter: grayscale(100%);
+}
+.extended-license-footer>ul>li.gamble-logos-j>ul>li+li:hover {
+    filter: none;
+}

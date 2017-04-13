@@ -24,3 +24,9 @@
 .extended-license-footer>ul>li.gamble-logos-j>ul>li+li:hover {
     filter: none;
 }
+/*end footer*/
+.live-calendar-16-content-j li.coeff-column-j {
+    border-top: 1px solid #414141;
+    box-shadow: inset 1px 0 0 #414141;
+    color: #008abf;
+}

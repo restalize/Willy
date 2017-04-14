@@ -56,3 +56,6 @@
 .all-main-tabs-b>ul>li:hover {
     background: #00B0F0;
 }
+.current-game-info-line>p {
+    background: #008abf;
+}

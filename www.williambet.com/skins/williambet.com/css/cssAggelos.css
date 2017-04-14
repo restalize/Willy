@@ -38,3 +38,21 @@
 .mybets-filter-show-b>button {
     background: #00B0F0;
 }
+.first-level-history-tab>ul>li.active>span {
+    box-shadow: 0 -2px 0 #00B0F0 inset;
+}
+.balance-view-tab {
+    color: #00B0F0;
+}
+.all-main-tabs-b {
+    background: #052B46;
+}
+.all-history-lightbox-content {
+    background: #052B46;
+}
+.all-main-tabs-b>ul>li.active {
+    background: #008ABF;
+}
+.all-main-tabs-b>ul>li:hover {
+    background: #00B0F0;
+}

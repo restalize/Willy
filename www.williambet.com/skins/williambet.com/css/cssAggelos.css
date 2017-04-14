@@ -32,3 +32,9 @@
     border-bottom: 0px solid #0c0b0b;
     color: #008abf;
 }
+.live-chat-b-contain {
+    border-top: 0px solid #1b1b1b;
+}
+.mybets-filter-show-b>button {
+    background: #00B0F0;
+}

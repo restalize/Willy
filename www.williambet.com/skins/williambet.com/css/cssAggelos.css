@@ -78,3 +78,6 @@
     background-size: contain;
     filter: grayscale(100%);
 }
+.contain-footer-block .payment-content-block>ul:hover {
+    filter: none;
+}

@@ -59,3 +59,22 @@
 .current-game-info-line>p {
     background: #008abf;
 }
+.all-main-tabs-b>ul>li:hover {
+    background: #00B0F0;
+}
+/*.classic-version-euro2016, .container-p {
+    padding: 94px 94px 0;
+}*/
+@media screen and (min-width: 1600px){
+.classic-view-wrapper-v3 {
+	padding-top:80px;
+    padding-right:80px
+    padding-left:80px
+    background-image: url(../images/stadium_BG.jpg);
+    background-position: 0 -260px;
+}
+}
+.contain-footer-block .payment-content-block>ul {
+    background-size: contain;
+    filter: grayscale(100%);
+}

@@ -67,9 +67,7 @@
 }*/
 @media screen and (min-width: 1600px){
 .classic-view-wrapper-v3 {
-	padding-top:80px;
-    padding-right:80px
-    padding-left:80px
+    padding:94px 80px 0 80px;
     background-image: url(../images/stadium_BG.jpg);
     background-position: 0 -260px;
 }

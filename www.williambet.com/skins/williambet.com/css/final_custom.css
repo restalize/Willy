@@ -1,0 +1,48 @@
+.button-sign:disabled, .cashier-button button:disabled {
+    background: #777;
+    color: #222;
+}
+
+.settings-info-contain .chekcbox-j label input+span:before {
+    background-color: #565656;
+}
+
+.closed-game-icon-v3 {
+    font: 8px/30px icomoon;
+}
+
+.mini-header-p {
+    float: left;
+    width: 100%;
+    height: 28px;
+    background: #2a343e;
+    box-sizing: border-box;
+}
+
+.mini-block-close-p {
+    color: #cacaca;
+}
+
+.mini-select-p {
+    background: #2a343e;
+}
+
+.bet-info-list-separator-b>ul>li.bet-odds-info-column {
+    width: 100px;
+    border-left: 1px solid #222;
+    border-right: 1px solid #222;
+    background: #2a343e;
+}
+
+.bet-info-list-separator-b>ul>li.bet-odds-info-column>span {
+    color: #ffb703;
+    font: 12px/36px Arial,Helvetica,sans-serif;
+    font-weight: 700;
+}
+
+.right-block-news span {
+    color: #cecece;
+    font: 12px/16px Arial,Helvetica,sans-serif;
+    font-weight: 700;
+    width: 100%;
+}

@@ -123,3 +123,27 @@
     background-repeat: no-repeat;
     margin: 20px 0;
 }
+.backgammon .headerVersion_2 .conteiner, .belote .headerVersion_2 .conteiner, .external .headerVersion_2 .conteiner, .fantasy .headerVersion_2 .conteiner, .first_deposit_bonus .headerVersion_2 .conteiner, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, .games .headerVersion_2 .conteiner, .gameslanding .headerVersion_2 .conteiner, .livedealer .headerVersion_2 .conteiner, .poker .headerVersion_2 .conteiner, .pokerklas .headerVersion_2 .conteiner, .poolbetting .headerVersion_2 .conteiner {
+    background: #052b46!important;
+}
+.backgammon .headerVersion_2 .conteiner:before, .belote .headerVersion_2 .conteiner:before, .external .headerVersion_2 .conteiner:before, .fantasy .headerVersion_2 .conteiner:before, .first_deposit_bonus .headerVersion_2 .conteiner:before, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before, .games .headerVersion_2 .conteiner:before, .gameslanding .headerVersion_2 .conteiner:before, .livedealer .headerVersion_2 .conteiner:before, .poker .headerVersion_2 .conteiner:before, .pokerklas .headerVersion_2 .conteiner:before, .poolbetting .headerVersion_2 .conteiner:before {
+    content: "";
+    height: 40px;
+    display: block;
+    position: absolute;
+    width: 100%;
+    background: #052b46!important;
+    left: 0;
+    bottom: 0;
+    border-bottom: solid 2px #052B45!important;
+}
+.backgammon .headerVersion_2 .conteiner.show-fix:after, .backgammon .headerVersion_2 .conteiner.show-game:after, .belote .headerVersion_2 .conteiner.show-fix:after, .belote .headerVersion_2 .conteiner.show-game:after, .external .headerVersion_2 .conteiner.show-fix:after, .external .headerVersion_2 .conteiner.show-game:after, .fantasy .headerVersion_2 .conteiner.show-fix:after, .fantasy .headerVersion_2 .conteiner.show-game:after, .first_deposit_bonus .headerVersion_2 .conteiner.show-fix:after, .first_deposit_bonus .headerVersion_2 .conteiner.show-game:after, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner.show-fix:after, .first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner.show-game:after, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner.show-fix:after, .gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner.show-game:after, .games .headerVersion_2 .conteiner.show-fix:after, .games .headerVersion_2 .conteiner.show-game:after, .gameslanding .headerVersion_2 .conteiner.show-fix:after, .gameslanding .headerVersion_2 .conteiner.show-game:after, .livedealer .headerVersion_2 .conteiner.show-fix:after, .livedealer .headerVersion_2 .conteiner.show-game:after, .poker .headerVersion_2 .conteiner.show-fix:after, .poker .headerVersion_2 .conteiner.show-game:after, .pokerklas .headerVersion_2 .conteiner.show-fix:after, .pokerklas .headerVersion_2 .conteiner.show-game:after, .poolbetting .headerVersion_2 .conteiner.show-fix:after, .poolbetting .headerVersion_2 .conteiner.show-game:after {
+    content: "";
+    height: 36px;
+    display: block;
+    position: absolute;
+    width: 100%;
+    background: #052b46!important;
+    left: 0;
+    top: 0;
+}

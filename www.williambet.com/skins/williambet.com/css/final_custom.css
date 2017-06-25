@@ -1,3 +1,6 @@
+/*   <link rel="stylesheet" href="https://restalize.github.io/willy/www.williambet.com/skins/williambet.com/css/final_custom.css">    */
+
+
 .button-sign:disabled, .cashier-button button:disabled {
     background: #777;
     color: #222;
@@ -129,8 +132,16 @@
 
 
 
+body>.about .headerVersion_2 .conteiner, body>.backgammon .headerVersion_2 .conteiner, body>.belote .headerVersion_2 .conteiner, body>.external .headerVersion_2 .conteiner, body>.fantasy .headerVersion_2 .conteiner, body>.first_deposit_bonus .headerVersion_2 .conteiner, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, body>.games .headerVersion_2 .conteiner, body>.gameslanding .headerVersion_2 .conteiner, body>.livedealer .headerVersion_2 .conteiner, body>.poker .headerVersion_2 .conteiner, body>.pokerklas .headerVersion_2 .conteiner, body>.poolbetting .headerVersion_2 .conteiner, body>.vip-promos .headerVersion_2 .conteiner {
+    background: #052b46;
+}
 
 
+
+body>.about .headerVersion_2 .conteiner:before, body>.backgammon .headerVersion_2 .conteiner:before, body>.belote .headerVersion_2 .conteiner:before, body>.external .headerVersion_2 .conteiner:before, body>.fantasy .headerVersion_2 .conteiner:before, body>.first_deposit_bonus .headerVersion_2 .conteiner:before, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner:before, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner:before, body>.games .headerVersion_2 .conteiner:before, body>.gameslanding .headerVersion_2 .conteiner:before, body>.livedealer .headerVersion_2 .conteiner:before, body>.poker .headerVersion_2 .conteiner:before, body>.pokerklas .headerVersion_2 .conteiner:before, body>.poolbetting .headerVersion_2 .conteiner:before, body>.vip-promos .headerVersion_2 .conteiner:before {
+    background: #052b46;
+    border-bottom: solid 0px #00b0f0;
+}
 
 
 

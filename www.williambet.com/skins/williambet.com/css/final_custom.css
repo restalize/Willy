@@ -132,6 +132,35 @@
 
 
 
+
+.promotions-menu-p ul li.active, .promotions-menu-p ul li:hover {
+    color: #fff;
+    background: transparent;
+    border-radius: 6px;
+    border: 2px solid;
+    border-color: #00b0f0;
+}
+
+
+
+.promotions-menu-p ul {
+    max-width: 960px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    background: transparent;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
 body>.about .headerVersion_2 .conteiner, body>.backgammon .headerVersion_2 .conteiner, body>.belote .headerVersion_2 .conteiner, body>.external .headerVersion_2 .conteiner, body>.fantasy .headerVersion_2 .conteiner, body>.first_deposit_bonus .headerVersion_2 .conteiner, body>.first_deposit_bonus_and_20_free_spins .headerVersion_2 .conteiner, body>.gameCSB1providerCSBexid152000 .headerVersion_2 .conteiner, body>.games .headerVersion_2 .conteiner, body>.gameslanding .headerVersion_2 .conteiner, body>.livedealer .headerVersion_2 .conteiner, body>.poker .headerVersion_2 .conteiner, body>.pokerklas .headerVersion_2 .conteiner, body>.poolbetting .headerVersion_2 .conteiner, body>.vip-promos .headerVersion_2 .conteiner {
     background: #052b46;
 }

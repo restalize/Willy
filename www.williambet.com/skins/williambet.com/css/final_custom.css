@@ -22,11 +22,11 @@
 .list-news ul li h3 {
     float: left;
     width: 100%;
-    height: auto;
+   min-height:60px;
 }
 
 .list-news ul li h3 a {
-    font: 30px/40px Roboto,sans-serif;
+    font: 25px/30px Roboto,sans-serif;
 }
 
 /* end of promo page */

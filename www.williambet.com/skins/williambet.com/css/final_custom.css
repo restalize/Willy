@@ -1,141 +1,61 @@
 
 
-.container-p {
 
-    background: #052b46;
+
+
+
+
+
+
+.cashout-icon-market-v3:before {
+    box-sizing: border-box;
+    content: url(../images/icon_cashout.png)!important;
+    color: #028947;
 }
 
 
-
-/*  promo   */
-
-
-
-.list-news ul li h3 a {
-    color: #ffb726;
+.market-title-v3>.arrow-view-v3 {
+    padding-right: 4px;
 }
 
-.promotions-menu-p ul {
-    display: none;
+.icon-separator-v3 {
+    color: #899bad;
 }
 
-.list-news ul li h3 {
-    float: left;
-    width: 100%;
-   min-height:60px;
+.favorite-icon-market-v3:before {
+    color: #899bad;
 }
 
-.list-news ul li h3 a {
-    font: 25px/30px Roboto,sans-serif;
+.market-icons-view-v3>ul>li {
+    border-right: 1px solid rgba(96, 107, 117, 0.25);
 }
 
-/* end of promo page */
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 1px 0 3px;
+    display: table;
+}
+
+.market-icons-view-v3>ul>li {
+    min-width: 35px;
+    font: 12px/20px Roboto,sans-serif;
+    padding: 0px 8px;
+    color: #7a94ad;
+}
 
 
+.sports-item-v3:hover .arrow-view-v3 {
+    box-sizing: border-box;
+    color: #96afc5;
+}
 
 
-
-
-
+.block-slider.popup .register-information-b>h2 {
+    color: #00b0f0;
+}
 
 .arrow-view-v3 {
-    color: #cfd4da;
+    color: rgba(155, 174, 197, 0);
 }
 
-
-.contain-footer-block .payment-content-block>ul {
-    background: url(../images/custom-footer-sprite7893.png) no-repeat 50% 50%;
-}
-
-
-.general-text-list p {
-    color: #3a4044;
-}
-
-.single-sport-box-v3.sport-closed>.sport-name-up-game-v3>.arrow-view-v3:before {
-    content: "\e670";
-    color: #7b8191;
-}
-
-
-.single-sport-box-v3 .sport-name-up-game-v3>.arrow-view-v3:before, .single-sport-box-v3c.sport-name-up-game-v3:hover>.arrow-view-v3:before {
-    color: #2f4254;
-}
-
-.sub-nav-filter-time-v3>ul>li {
-    color: #c3c3c3;
-}
-
-
-.lc16-sport-selector-j ul li {
-    color: #434e56;
-}
-
-
-.live-calendar-16-content-j li.coeff-column-j {
-    color: #333333;
-}
-
-.live-calendar-16-content-j .single-bet-locked:before {
-    color: #8e9fad;
-}
-
-.live-calendar-16-content-j li.more-column-j {
-    color: #333333;
-}
-
-.live-calendar-16-content-j li.time-column-j {
-    color: #333333;
-}
-
-
-.single-game-item-v3.no-events .team-name-1-v3>p {
-    color: #929496;
-}
-
-.search-box-v3 .block-search>input[type=text] {
-    box-shadow: 0 0 0 1px #5d7f9a inset;
-}
-
-.popup-wrapper-j .pu-contain-j p {
-    color: #5d7f9a;
-}
-
-.new-default-popup-j {
-    background: rgba(14, 24, 33, 0.95);
-}
-
-.new-default-popup-j {
-
-    background: rgba(14, 24, 33, 0.95);
-}
-
-.block-slider.popup {
-    background: rgba(14, 24, 33, 0.95);
-}
-
-.button-confirm>button {
-    margin-bottom: 25px;
-}
-
-
-.drop-items-contain-b>ul>li:before {
-    background: #5d7f9a;
-}
-
-
-.centr-tabs-block ul li {
-    color: #96a2ab;
-}
-
-
-.extended-license-footer {
-    color: #628094;
-}
-
-
-
-.extended-license-footer .ceg-seal-t {
-    padding-right: 10px;
-    width: 100px;
-}

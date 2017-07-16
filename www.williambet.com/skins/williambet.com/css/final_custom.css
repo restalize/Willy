@@ -4,13 +4,43 @@
 
 
 
+.providers-nav-casino>ul>li>a:hover {
+    color: #fbfbfb;
+    border: solid 1px white inside;
+    box-shadow: inset 0px 10px 15px 1px rgba(9, 102, 150, 0.4);
+    border-radius: 30px;
+    transition: box-shadow 0.3s ease-out;
+    height: 30px;
+}
+
+.list-games-casino-view-b:hover>a {
+    border-color: white;
+    box-shadow: 0 1px 10px rgba(17, 33, 64, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.list-games-casino-view-b>a, .save-games-contain .games-slider ul>.list-games-casino-view-b>a {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.game-img-box-b {
+    box-shadow: none;
+}
 
 
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 0px 0 3px;
+    display: table;
+}
 
 .cashout-icon-market-v3:before {
     box-sizing: border-box;
     content: url(../images/icon_cashout.png)!important;
-    color: #028947;
+    color: #00b0f0;
+    position: relative;
+    top: 4px;
 }
 
 

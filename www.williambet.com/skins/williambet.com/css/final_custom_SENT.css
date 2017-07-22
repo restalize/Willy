@@ -1,5 +1,107 @@
 
 
+/* 22 jul */
+
+
+
+
+
+
+
+.providers-nav-casino>ul>li>a:hover {
+    color: #fbfbfb;
+    border: solid 1px white inside;
+    box-shadow: inset 0px 10px 15px 1px rgba(9, 102, 150, 0.4);
+    border-radius: 30px;
+    transition: box-shadow 0.3s ease-out;
+    height: 30px;
+}
+
+.list-games-casino-view-b:hover>a {
+    border-color: white;
+    box-shadow: 0 1px 10px rgba(17, 33, 64, 0.5);
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.list-games-casino-view-b>a, .save-games-contain .games-slider ul>.list-games-casino-view-b>a {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15);
+}
+
+.game-img-box-b {
+    box-shadow: none;
+}
+
+
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 0px 0 3px;
+    display: table;
+}
+
+.cashout-icon-market-v3:before {
+    box-sizing: border-box;
+    content: url(../images/icon_cashout.png)!important;
+    color: #00b0f0;
+    position: relative;
+    top: 4px;
+}
+
+
+.market-title-v3>.arrow-view-v3 {
+    padding-right: 4px;
+}
+
+.icon-separator-v3 {
+    color: #899bad;
+}
+
+.favorite-icon-market-v3:before {
+    color: #899bad;
+}
+
+.market-icons-view-v3>ul>li {
+    border-right: 1px solid rgba(96, 107, 117, 0.25);
+}
+
+.market-icons-view-v3>ul {
+    box-sizing: border-box;
+    float: right;
+    padding: 1px 0 3px;
+    display: table;
+}
+
+.market-icons-view-v3>ul>li {
+    min-width: 35px;
+    font: 12px/20px Roboto,sans-serif;
+    padding: 0px 8px;
+    color: #7a94ad;
+}
+
+
+.sports-item-v3:hover .arrow-view-v3 {
+    box-sizing: border-box;
+    color: #96afc5;
+}
+
+
+.block-slider.popup .register-information-b>h2 {
+    color: #00b0f0;
+}
+
+.arrow-view-v3 {
+    color: rgba(155, 174, 197, 0);
+}
+
+
+
+/* end of july 22 */
+
+
+
+
+
+
 
 .container-p {
 

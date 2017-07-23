@@ -4,6 +4,33 @@
 
 
 
+
+
+
+
+
+.slider-optional-b-casino {
+
+    background: rgba(0, 0, 0, 0);
+}
+
+.promotions-menu-p .promotions-baner-p>span {
+    float: left;
+    display: block;
+    margin: 0 18px;
+    font: 26px/66px icomoon;
+    display: none;
+}
+
+.bet-info-list-separator-b>ul>li.bet-status-column-b.has-cash-out .cash-out-button .cashoutbet-icon-history {
+
+    margin: -5px 10px 0px 0;
+}
+
+.cashoutbet-icon-history, .printbet-icon-history, .superbet-icon-history {
+    font: 21px/37px icomoon;
+}
+
 .block-meny-news.promo .promo-bonus-title {
     float: left;
     width: 100%;

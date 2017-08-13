@@ -1,7 +1,75 @@
 
 
-/* 22 jul */
 
+/* START jul 29 */
+
+
+
+@media screen and (min-width: 1359px)
+.center-column-v3 {
+    width: calc(100% - 625px);
+
+}
+
+.right-column-v3 {
+    width: 304px;
+}
+
+
+
+
+
+/* START jul 29 */
+
+
+
+
+
+
+
+/* 22 jul */
+.slider-optional-b-casino {
+
+    background: rgba(0, 0, 0, 0);
+}
+
+.promotions-menu-p .promotions-baner-p>span {
+    float: left;
+    display: block;
+    margin: 0 18px;
+    font: 26px/66px icomoon;
+    display: none;
+}
+
+.bet-info-list-separator-b>ul>li.bet-status-column-b.has-cash-out .cash-out-button .cashoutbet-icon-history {
+
+    margin: -5px 10px 0px 0;
+}
+
+.cashoutbet-icon-history, .printbet-icon-history, .superbet-icon-history {
+    font: 21px/37px icomoon;
+}
+
+.block-meny-news.promo .promo-bonus-title {
+    float: left;
+    width: 100%;
+    font: 40px/44px Roboto,sans-serif;
+    color: #fff;
+    padding: 0 0 50px;
+}
+
+.list-news ul li h3 a {
+    color: #ffffff;
+}
+
+.list-news ul li h3 a {
+    font: 20px/24px Roboto,sans-serif;
+}
+
+.cashoutbet-icon-history:before {
+    content: url(../images/icon_cashout.png)!important;
+    color: #05a5d4;
+}
 
 
 

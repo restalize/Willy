@@ -1,6 +1,40 @@
 
 
 
+
+
+
+.superbet-contain-view-v3.active {
+    background: #052b46;
+background: -moz-linear-gradient(45deg, #007099 0%, #052b46 65%); 
+background: -webkit-linear-gradient(45deg, #007099 0%,#052b46 65%); 
+background: linear-gradient(45deg, #007099 0%,#052b46 65%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007099', endColorstr='#052b46',GradientType=1 );
+}
+
+
+.icon-superbet-view-v3 {
+    background: url(../images/superbet-logo.png) no-repeat 0 0;
+    height: 103px;
+}
+
+
+.freebet-wrapper-view-v3>.superbet-contain-view-v3.active {
+    background: #052b46;
+    background: -moz-linear-gradient(-15deg, #007099 0%,#052b46 52%); 
+    background: -webkit-linear-gradient(-15deg, #007099 0%,#052b46 52%);
+    background: linear-gradient(-15deg, #007099 0%,#052b46 52%);
+}
+
+.freebet-wrapper-view-v3 .superbet-contain-view-v3 .icon-superbet-view-v3 {
+    box-sizing: border-box;
+    background: url(../images/freebet_animation_.gif) no-repeat 0 0;
+    top: -30px;
+        right: 5px;
+}
+
+
+
 /* START jul 29 */
 
 
